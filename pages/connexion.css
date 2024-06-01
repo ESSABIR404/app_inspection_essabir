@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    justify-content: center; /* centrer horizontalement */
+    align-items: center; /* centrer verticalement */
+    height: 70px; /* définir la hauteur de la page */
+  }
+  
+        #button{
+         background-color: rgb(107, 193, 233);
+         border-color: rgb(107, 193, 233);
+        }
+       .liggg{display: inline-block;
+     }
+       
+        h1{
+         margin-top: 100px;
+         margin: 60px ; 
+         color:rgb(89, 153, 226);
+         font-family: Georgia, serif;
+         font-size: xx-large;}
+  
+         .divchoix1{ background-color:white;
+          height: 500px;
+  }
+  
+  .btniq {
+    margin: 0 10px;
+    height: 40px;
+    width: 200px;
+  }
+  
+  
+        p{font-size: 40px;
+      text-align: center;
+  padding-top: 140px;}
+  nav{background-color: white;}
+  
+  
+      body{overflow-x: hidden;
+        overflow-y: hidden;
+          }
+     ul{margin-left: 100px;}
+     .cercledeli{
+    list-style-type: circle;
+  }
+  footer{background-color: #f5f5f5;
+    height: 145px;}
+    #couleurbtn{background-color:rgb(107, 193, 233); 
+    border-color: rgb(107, 193, 233);}
+    input[type="email"]:placeholder {
+        color: gray;
+      }
+    
+   body{overflow: scroll;}
